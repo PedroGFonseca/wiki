@@ -1,2 +1,3 @@
 # wiki
-Stuff I'm learning and need to keep somewhere
+
+Go to the [wiki](https://github.com/PedroGFonseca/wiki/wiki)! 
